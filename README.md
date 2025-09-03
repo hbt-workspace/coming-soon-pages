@@ -1,2 +1,3 @@
 # coming-soon-pages
-"Coming Soon" html pages for website until it publish on hosted domain.
+'Coming Soon' pages of website until published:
+1. A coming soon page with 'Number of Days Left'.
